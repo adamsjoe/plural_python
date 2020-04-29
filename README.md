@@ -1,1 +1,1 @@
-# Pluralsight python course examples
+# Pluralsight python getting started course examples
